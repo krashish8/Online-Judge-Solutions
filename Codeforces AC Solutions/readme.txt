@@ -1,1 +1,1 @@
-These are my Codeforces Successful submissions, extracted using CF Extractor.
+These are my successfully submitted solutions on codeforces, extracted using CF Extractor made by me.
